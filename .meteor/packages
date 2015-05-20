@@ -9,3 +9,7 @@ autopublish
 insecure
 stolinski:stylus-multi
 http
+meteorhacks:npm
+
+
+npm-container
