@@ -31,6 +31,12 @@ https://atmospherejs.com/meteor/reactive-var
 #### aldeed:autoform
 https://atmospherejs.com/aldeed/autoform
 
+#### aldeed:collection2
+https://atmospherejs.com/aldeed/collection2
+
+#### aldeed:simple-schema
+https://atmospherejs.com/aldeed/simple-schema
+
 ## Affiliates
 [Bluehost Shared Hosting](http://www.bluehost.com/track/leveluptutorials/MeteorStarterGithub)
 

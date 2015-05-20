@@ -16,3 +16,4 @@ npm-container
 reactive-var
 aldeed:autoform
 aldeed:collection2
+aldeed:simple-schema
