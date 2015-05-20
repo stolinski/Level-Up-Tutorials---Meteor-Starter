@@ -37,6 +37,9 @@ https://atmospherejs.com/aldeed/collection2
 #### aldeed:simple-schema
 https://atmospherejs.com/aldeed/simple-schema
 
+#### meteorhacks:fast-render
+https://atmospherejs.com/meteorhacks/fast-render
+
 ## Affiliates
 [Bluehost Shared Hosting](http://www.bluehost.com/track/leveluptutorials/MeteorStarterGithub)
 
