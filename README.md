@@ -1,10 +1,17 @@
-### How To Use
+
+
+## How To Use
 
 ```
 git clone https://github.com/stolinski/Level-Up-Tutorials---Meteor-Starter.git myapp
 cd myapp
 meteor
 ```
+
+## Why
+Quickly get started without having to hunt for the packages that I use on every Meteor project.
+
+## What's Included
 
 ### Packages
 
