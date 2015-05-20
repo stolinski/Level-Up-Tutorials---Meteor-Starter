@@ -16,29 +16,14 @@ Quickly get started without having to hunt for the packages that I use on every 
 
 ### Packages
 
-#### Http
-https://atmospherejs.com/meteor/http
-
-#### stolinski:stylus-multi
-https://atmospherejs.com/stolinski/stylus-multi
-
-#### meteorhacks:npm
-https://atmospherejs.com/meteorhacks/npm
-
-#### reactive-var
-https://atmospherejs.com/meteor/reactive-var
-
-#### aldeed:autoform
-https://atmospherejs.com/aldeed/autoform
-
-#### aldeed:collection2
-https://atmospherejs.com/aldeed/collection2
-
-#### aldeed:simple-schema
-https://atmospherejs.com/aldeed/simple-schema
-
-#### meteorhacks:fast-render
-https://atmospherejs.com/meteorhacks/fast-render
+* Http - https://atmospherejs.com/meteor/http
+* stolinski:stylus-multi - https://atmospherejs.com/stolinski/stylus-multi
+* meteorhacks:npm - https://atmospherejs.com/meteorhacks/npm
+* reactive-var - https://atmospherejs.com/meteor/reactive-var
+* aldeed:autoform - https://atmospherejs.com/aldeed/autoform
+* aldeed:collection2 - https://atmospherejs.com/aldeed/collection2
+* aldeed:simple-schema - https://atmospherejs.com/aldeed/simple-schema
+* meteorhacks:fast-render - https://atmospherejs.com/meteorhacks/fast-render
 
 ## Affiliates
 [Bluehost Shared Hosting](http://www.bluehost.com/track/leveluptutorials/MeteorStarterGithub)
