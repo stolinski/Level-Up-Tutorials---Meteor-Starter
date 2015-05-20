@@ -1,4 +1,5 @@
-
+# Meteor Starter - From Level Up Tutorials
+http://leveluptutorials.com
 
 ## How To Use
 
@@ -26,3 +27,8 @@ https://atmospherejs.com/meteorhacks/npm
 
 #### reactive-var
 https://atmospherejs.com/meteor/reactive-var
+
+
+## Affiliates
+[Bluehost Shared Hosting](http://www.bluehost.com/track/leveluptutorials/MeteorStarterGithub)
+[Digital Ocean Cloud Hosting](https://www.digitalocean.com/?refcode=67357174b09e)
