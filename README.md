@@ -1,3 +1,11 @@
+### How To Use
+
+```
+git clone https://github.com/stolinski/Level-Up-Tutorials---Meteor-Starter.git myapp
+cd myapp
+meteor
+```
+
 ### Packages
 
 #### Http
